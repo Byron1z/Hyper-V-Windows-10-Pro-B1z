@@ -63,6 +63,32 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 </p>
 <br />
 <h3>Creating a VM in Hyper-V</h3>
-<p></p>
+<p>
+  
+  DESCRIPTION: You have installed the Hyper-V role on Windows 10 and are ready to create a virtual machine.
+  
+  1. Log on to your Windows 10 computer and open Hyper-V Manager, if necessary. If your Windows 10 computer is not selected in the left pane, click Connect to Server in the Actions pane, click Local computer, and then click OK.
+  
+  2. In the Actions pane, click New and then click Virtual Machine.
+  
+  3. Read the information in the Before You Begin window. You can create a default virtual machine simply by clicking Finish in this window, but for this activity, click Next.
+  
+  4. In the Name text box, type VMTest1. You can choose a location to store the virtual machine configuration, but for this activity, accept the default location of C:\ProgramData\Microsoft\Windows\Hyper-V by clicking Next.
+  
+  5. In the Specify Generation window, you choose whether to create a generation 1 or generation 2 virtual machine. A generation 1 VM provides backward compatibility with older Hyper-V versions but provides fewer advanced features. Click Generation 2 and click Next.
+  
+  6. In the Assign Memory window, type 1024 in the Startup memory text box, leave the option to use dynamic memory selected, and then click Next.
+  
+  7. In the Configure Networking window, do not change the default option, Not Connected. Click Next.
+  
+  8. In the Connect Virtual Hard Disk window, you can enter the virtual hard disk’s name, size, and location. By default, the size is 127 GB, and Hyper-V assigns the hard disk the same name as the VM, with the extension .vhdx. You can also use an existing virtual disk or attach one later. Write down the location where Hyper-V stores the virtual hard disk by default, in case you want to access the virtual disk later. Click Next to accept the default settings.
+  
+  9. In the Installation Options window, click Install an operating system later, if necessary. Click Next.
+  
+  10. The Completing the New Virtual Machine Wizard window displays a summary of your virtual machine configuration. Click Finish. After the virtual machine is created, you return to Hyper-V Manager and see your new VM in the Virtual Machines pane of Hyper-V Manager 
+</p>
+<p>
+  <img src="https://i.imgur.com/AJ4G9vU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
 
 
