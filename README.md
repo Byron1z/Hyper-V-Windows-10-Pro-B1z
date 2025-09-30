@@ -5,7 +5,7 @@
 <h1>Installing Hyper-V VM in Windows 10 Pro</h1>
 This tutorial outlines the installation of the Hyper-V Feature on your Windows 10 Pro Operating System.
 <br />
-<h4>CTC 316: OS & Network Support assignment</h4>
+<h4>Fall 2022; CTC 316: OS & Network Support assignment</h4>
 <br />
 
 <h2>Video Demonstration</h2>
@@ -52,7 +52,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
   5. When Windows restarts, log on, click in the search box, and type Hyper-V. In the search results, click Hyper-V Manager to open the Hyper-V Manager console.
 </p>
 <p>
-  <img src="https://i.imgur.com/gd9v5vy.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/KvfhNt2.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/yWOVxDd.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/Tevjoqi.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
