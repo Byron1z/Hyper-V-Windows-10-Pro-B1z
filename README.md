@@ -3,31 +3,40 @@
 </p>
 
 <h1>Installing Hyper-V VM in Windows 10 Pro</h1>
-This tutorial outlines the installation of the Hyper-V Feature on your Windows 10 Pro Operating System.<br />
-
+This tutorial outlines the installation of the Hyper-V Feature on your Windows 10 Pro Operating System.
+<br />
+<h4>CTC 316: OS & Network Support assignment</h4>
+<br />
 
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
-
+<br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Windows 10 Pro
 - Windows Features
 - Hyper-V Manager Console
 - PowerShell
+<br />
+<h2>Check requirements for Windows PCs</h2>
 
+- Windows 10 (Pro or Enterprise), or Windows 11 (Pro or Enterprise).
+- 64-bit Processor with Second Level Address Translation (SLAT).
+- CPU support for VM Monitor Mode Extension (VT-c on Intel CPUs).
+- Minimum of 4 GB memory. 8-16 GB of RAM is the Best.
+<br />
 <h2>Operating Systems Used</h2>
 
 - Windows 10 Pro (21H2)
-
+<br />
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Installing Hyper-V Manager in Windows 10 Pro.
 - Creating a VM in Hyper-V.
 - Installing the OS (Windows Server 2019) in the Hyper-V VM.
 - Working with a Virtual Machine in Hyper-V Manager.
-
+<br />
 <h2>Deployment and Configuration Steps</h2>
 <h3>Installing Hyper-V in Windows 10 Pro</h3>
 <p>
