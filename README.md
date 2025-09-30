@@ -14,7 +14,6 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 - Microsoft Windows 10 Pro
 - Windows Features
 - Hyper-V Manager Console
-- PowerShell
 <br />
 <h2>Check requirements for Windows PCs</h2>
 
@@ -63,9 +62,8 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 </p>
 <br />
 <h3>Creating a VM in Hyper-V</h3>
+<h4> DESCRIPTION: You have installed the Hyper-V role on Windows 10 and are ready to create a virtual machine.</h4>
 <p>
-  
-  DESCRIPTION: You have installed the Hyper-V role on Windows 10 and are ready to create a virtual machine.
   
   1. Log on to your Windows 10 computer and open Hyper-V Manager, if necessary. If your Windows 10 computer is not selected in the left pane, click Connect to Server in the Actions pane, click Local computer, and then click OK.
   
@@ -90,5 +88,19 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 <p>
   <img src="https://i.imgur.com/AJ4G9vU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
+<h3>Installing Windows Server 2019 in a VM</h3>
+<p>
+  REQUIRED TOOLS AND EQUIPMENT: Your Windows 10 computer and a Windows Server 2019 evaluation ISO file
+
+  Download ISO File: www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019  
+</p>
+<h4>DESCRIPTION: You have installed the Hyper-V role on Windows 10 and are ready to create a virtual machine.</h4>
+<p>
+
+  1. Log on to your Windows 10 computer and open Hyper-V Manager, if necessary. If your Windows 10 computer is not selected in the left pane, click Connect to Server in the Actions pane, click Local computer, and then click OK.
+  
+  2. 
+</p>
 
