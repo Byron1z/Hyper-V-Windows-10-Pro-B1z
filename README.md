@@ -56,7 +56,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 <p>
   <img src="https://i.imgur.com/KvfhNt2.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/yWOVxDd.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/Tevjoqi.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/qLOjUkQ.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   6. For the next Task, create a Virtual Machine and explore the settings. Leave Hyper-V Manager open if you plan to continue to the next project.
