@@ -23,7 +23,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 - Minimum of 4 GB memory. 8-16 GB of RAM is the Best.
 <br />
 
-<h2>Enable Hyper-V on Windows 10 Home; Video Tutorial</h2>
+<h2>Enable Hyper-V on Windows 10 Home | Video tutorial</h2>
 
 - ### [YouTube: Enable Hyper-V on Windows 10 Home](https://www.youtube.com/watch?v=FaytvySV04s&list=WL&index=66)
 <br />
@@ -36,6 +36,10 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 <h2>Windows Server 2019 ISO</h2>
 
 - ### [Free Download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+<br />
+<h2>Windows 10 download</h2>
+
+- ### [Free Download](https://www.microsoft.com/en-us/software-download/windows10)
 <br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
