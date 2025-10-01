@@ -38,8 +38,9 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 - Installing the OS (Windows Server 2019) in the Hyper-V VM.
 - Working with a Virtual Machine in Hyper-V Manager.
 <br />
+
 <h2>Deployment and Configuration Steps</h2>
-<h3>Installing Hyper-V in Windows 10 Pro</h3>
+<h3>Installing Hyper-V Manager in Windows 10 Pro</h3>
 <h4>DESCRIPTION: In this project, you install the Hyper-V feature on a Windows 10 computer.</h4>
 <h4># Note</h4>
 <p>
@@ -50,9 +51,10 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
   - In Oracle VirtualBox, use the System tab of the Settings window for the VM. If you are using Hyper-V, open a PowerShell window and type Set-VMProcessor -VMName <VMName> -ExposeVirtualizationExtensions $true, where <VMName> is the name of your Windows 10 virtual machine.
 </p>
 <br />
+<h4>Begin</h4>
 <p>
   
-  1. Start and log on to your Windows 10 computer.
+  1. Start and log on to your Windows 10 Pro computer.
   
   2. In the search box, begin typing Windows Features until you see Turn Windows Features on or off in the search results, and click on it.
      
