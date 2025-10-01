@@ -40,6 +40,16 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 <br />
 <h2>Deployment and Configuration Steps</h2>
 <h3>Installing Hyper-V in Windows 10 Pro</h3>
+<h4>DESCRIPTION: In this project, you install the Hyper-V feature on a Windows 10 computer.</h4>
+<h4># Note</h4>
+<p>
+  If you are running Windows 10 Pro in a Virtual Machine, you may need to enable virtualization features to allow nested virtualization. 
+  
+  - In VMware Workstation, you do this in the Processors section of the Virtual Machine Settings. 
+  
+  - In Oracle VirtualBox, use the System tab of the Settings window for the VM. If you are using Hyper-V, open a PowerShell window and type Set-VMProcessor -VMName <VMName> -ExposeVirtualizationExtensions $true, where <VMName> is the name of your Windows 10 virtual machine.
+</p>
+<br />
 <p>
   
   1. Start and log on to your Windows 10 computer.
@@ -90,7 +100,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 </p>
 <br />
 
-<h3>Installing Windows Server 2019 in a VM</h3>
+<h3>Installing Windows Server 2019 in the Hyper-V VM</h3>
 <p>
   REQUIRED TOOLS AND EQUIPMENT: Your Windows 10 computer and a Windows Server 2019 evaluation ISO file
 
@@ -119,5 +129,6 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 </p>
 <p>
   <img src="https://i.imgur.com/sZKL0UY.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
+  (I had to make a new VM, "VMTest2," due to an error)
 </p>
 
