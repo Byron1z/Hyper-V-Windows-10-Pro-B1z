@@ -30,7 +30,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 
 <h2>Operating Systems Used</h2>
 
-- Windows 10 Pro (21H2)
+- Windows 10 Pro (22H2)
 <br />
 
 <h2>Windows Server 2019 ISO</h2>
