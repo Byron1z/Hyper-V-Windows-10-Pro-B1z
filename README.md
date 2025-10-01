@@ -124,7 +124,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 
   1. Log on to your Windows 10 computer and open Hyper-V Manager, if necessary. If your Windows 10 computer is not selected in the left pane, click Connect to Server in the Actions pane, click Local computer, and then click OK.
   
-  2. Click VMTest1 in the Virtual Machines pane of Hyper-V Manager. In the Actions pane, click Settings under VMTest1 to open the Settings for VMTest1 window. (See Figure 18)
+  2. Click VMTest1 in the Virtual Machines pane of Hyper-V Manager. In the Actions pane, click Settings under VMTest1 to open the Settings for VMTest1 window. (See Figure 8-18.)
 </p>
 <p>
   <img src="https://i.imgur.com/pPBE1fd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
