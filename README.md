@@ -83,10 +83,10 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
   
   9. In the Installation Options window, click Install an operating system later, if necessary. Click Next.
   
-  10. The Completing the New Virtual Machine Wizard window displays a summary of your virtual machine configuration. Click Finish. After the virtual machine is created, you return to Hyper-V Manager and see your new VM in the Virtual Machines pane of Hyper-V Manager 
+  10. Completing the New Virtual Machine Wizard window displays a summary of your virtual machine configuration. Click Finish. After the virtual machine is created, you return to Hyper-V Manager and see your new VM in the Virtual Machines pane of Hyper-V Manager 
 </p>
 <p>
-  <img src="https://i.imgur.com/AJ4G9vU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/rDtl1Hf.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -96,11 +96,28 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 
   Download ISO File: www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019  
 </p>
-<h4>DESCRIPTION: You have installed the Hyper-V role on Windows 10 and are ready to create a virtual machine.</h4>
+<h4>DESCRIPTION: You have created a virtual machine and are ready to install Windows Server 2019 as a guest OS using the installation DVD. You need the installation media for Windows Server 2019.</h4>
 <p>
 
   1. Log on to your Windows 10 computer and open Hyper-V Manager, if necessary. If your Windows 10 computer is not selected in the left pane, click Connect to Server in the Actions pane, click Local computer, and then click OK.
   
-  2. 
+  2. Click VMTest1 in the Virtual Machines pane of Hyper-V Manager. In the Actions pane, click Settings under VMTest1 to open the Settings for VMTest1 window. (See Figure 18)
+</p>
+<p>
+  <img src="https://i.imgur.com/pPBE1fd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  3. Now you need to add a virtual DVD drive. Click the SCSI Controller in the left pane. In the right pane, click DVD Drive and click Add. Click the Image file and then click Browse. Locate and then click the Windows Server 2019 ISO file. Click Open. Click OK.
+
+  4. In Hyper-V Manager, right-click the VMTest1 virtual machine and click Connect.
+  
+  5. Power on VMTest1 by clicking Start. You will see a message to press any key to boot from the DVD. Be sure to click in the VM window and press the spacebar or any other key. If you are too late, just click Action and Reset in the Virtual Machine Connection console to restart the VM and try again.
+  
+  6. Begin the installation of Windows Server 2019 by clicking Next in the Windows Setup window.
+  
+  7. After Windows Server 2019 is installed, close the Virtual Machine Connection console and shut down the virtual machine by right-clicking VMTest1 and clicking Shut Down. Click Shut Down to confirm, if necessary.
+</p>
+<p>
+  <img src="https://i.imgur.com/sZKL0UY.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 
