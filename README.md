@@ -31,12 +31,11 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 <h2>Operating Systems Used</h2>
 
 - Windows 10 Pro (22H2)
-<br />
 
 <h2>Windows Server 2019 ISO</h2>
 
-- ### [Free Download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
-<br />
+- ### [Download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+
 <h2>Windows 10 download</h2>
 
 - ### [Free Download](https://www.microsoft.com/en-us/software-download/windows10)
@@ -113,7 +112,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 </p>
 <br />
 
-<h3>Installing Windows Server 2019 in the Hyper-V VM</h3>
+<h3>Installing the OS (Windows Server 2019) in the Hyper-V VM</h3>
 <p>
   REQUIRED TOOLS AND EQUIPMENT: Your Windows 10 computer and a Windows Server 2019 evaluation ISO file
 
