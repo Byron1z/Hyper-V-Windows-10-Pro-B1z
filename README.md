@@ -52,7 +52,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 <h2>Deployment and Configuration Steps</h2>
 <h3>Installing Hyper-V Manager in Windows 10 Pro</h3>
 <h4>DESCRIPTION: In this project, you install the Hyper-V feature on a Windows 10 computer.</h4>
-<h4># Note</h4>
+<h4># Note 📝</h4>
 <p>
   If you are running Windows 10 Pro in a Virtual Machine, you may need to enable virtualization features to allow nested virtualization. 
   
