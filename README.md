@@ -38,7 +38,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 
 <h2>Windows 10 download</h2>
 
-- ### [Free Download](https://www.microsoft.com/en-us/software-download/windows10)
+- ### [Download](https://www.microsoft.com/en-us/software-download/windows10)
 <br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
