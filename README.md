@@ -56,7 +56,7 @@ Do not open the ISO File on your Host (Windows) machine. If it mounts, Eject it 
 
 If you begin the installation process, it will **Wipe out** your Windows 10 Host PC❗️ 
 
-Only access the ISO image from your VMWare Workstation.
+Only access the ISO image from your VMWare Workstation, or any other (VM) platform, in this case Hyper-V.
 </p>
 <br />
 
