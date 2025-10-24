@@ -13,7 +13,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 
 - Microsoft Windows 10 Pro
 - Windows Features
-- Hyper-V Manager Console
+- **Hyper-V Manager Console**
 <br />
 <h2>Check requirements for Windows PCs</h2>
 
