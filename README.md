@@ -50,6 +50,13 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 <br />
 
 <h3>Caution Installing Windows ISO File ⚠️</h3>
+<p>
+Do not open the ISO File on your Host (Windows) machine. If it mounts, Eject it from Windows File Manager.
+
+If you begin the installation process, it will Wipe out your Windows 10 Host PC. 
+
+Only access the ISO image from your VMWare Workstation.
+</p>
 <br />
 
 <h2>Deployment and Configuration Steps</h2>
