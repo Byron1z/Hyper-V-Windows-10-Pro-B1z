@@ -20,7 +20,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 - **Windows 10 (Pro or Enterprise)**, or **Windows 11 (Pro or Enterprise) Only!**
 - 64-bit Processor with Second Level Address Translation (SLAT).
 - CPU support for VM Monitor Mode Extension (VT-c on Intel CPUs).
-- Minimum of 4 GB memory. **8-16 GB of RAM is the Best** ✅️.
+- Minimum of 4 GB memory. | **8-16 GB of RAM is the Best** ✅️.
 <br />
 
 <h2>Enable Hyper-V on Windows 10 Home | Video tutorial</h2>
@@ -49,7 +49,7 @@ This tutorial outlines the installation of the Hyper-V Feature on your Windows 1
 - Working with a Virtual Machine in Hyper-V Manager.
 <br />
 
-<h3>⚠️ Caution Installing Windows ISO File❗️</h3>
+<h3>⚠️ Caution Installing Windows ISO File ❗️</h3>
 <p>
 
 Do not open the ISO File on your Host (Windows) machine. If it mounts, Eject it from **Windows File Manager**.
