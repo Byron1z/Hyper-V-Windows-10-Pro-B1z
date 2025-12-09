@@ -128,7 +128,7 @@ If you begin the installation process, it will **Wipe out** your Windows 10 Host
 
   REQUIRED TOOLS AND EQUIPMENT: Your Windows 10 computer and a Windows Server 2019 evaluation ISO file
 
-  **Download ISO File**: www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019  
+  **🔹️ Download ISO File**: www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019  
 </p>
 <h4>DESCRIPTION: You have created a virtual machine and are ready to install Windows Server 2019 as a guest OS using the installation DVD. You need the installation media for Windows Server 2019.</h4>
 <p>
