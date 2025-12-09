@@ -6,7 +6,7 @@
 This tutorial outlines the installation of the Hyper-V Feature on your Windows 10 Pro Operating System.
 <br />
 
-<h3>Fall 2022; CTC 316: OS & Network Support assignment</h3>
+<h3>🔹️ Fall 2022; CTC 316: OS & Network Support assignment</h3>
 <br />
 
 <h2>Environments and Technologies Used</h2>
