@@ -4,6 +4,10 @@
 
 <h1>Installing Hyper-V VM in Windows 10 Pro</h1>
 This tutorial outlines the installation of the Hyper-V Feature on your Windows 10 Pro Operating System.
+
+This VM will be considered to be a **Type 1: Bare Metal** Hypervisor.
+
+Even though the VM is installed on a Windows desktop (via Windows 10/11 Pro/Enterprise), Hyper-V operates directly on the hardware underneath the host operating system, providing direct, efficient access to the CPU and memory.
 <br />
 
 <h3>🔹️ Fall 2022; CTC 316: OS & Network Support assignment</h3>
